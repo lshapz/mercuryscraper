@@ -1,6 +1,6 @@
 {
   "name": "mercuryscraper",
-  "version": "1.0.12",
+  "version": "1.0.15",
   "description": "\"a simple ajax wrapper for the Mercury Web Parser from Postlight Labs\"",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,8 @@
     "parse",
     "parser"
   ],
-  "author": "lshapz",
+  "repository": "https://github.com/lshapz/mercuryscraper/",
+  "author": "lshapz@github",
   "license": "MIT",
   "dependencies": {
     "jquery": "^3.1.1"
