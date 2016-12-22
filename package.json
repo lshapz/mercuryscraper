@@ -1,0 +1,23 @@
+{
+  "name": "mercuryscraper",
+  "version": "1.0.12",
+  "description": "\"a simple ajax wrapper for the Mercury Web Parser from Postlight Labs\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "scraper",
+    "scraping",
+    "scrape",
+    "mercury",
+    "parse",
+    "parser"
+  ],
+  "author": "lshapz",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
